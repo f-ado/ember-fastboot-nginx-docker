@@ -1,0 +1,17 @@
+.wrapper {
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+
+.user-card {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid black;
+  display:flex;
+  justify-content:space-between;
+}
+
+.user-card img {
+  width: 50px;
+}
