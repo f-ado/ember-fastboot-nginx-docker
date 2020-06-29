@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'fastbootex',
+    modulePrefix: 'ember-fastboot-app',
     environment,
     rootURL: '/',
     locationType: 'auto',

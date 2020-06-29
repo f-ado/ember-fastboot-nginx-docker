@@ -1,0 +1,15 @@
+{
+  "name": "ember-fastboot-app-server",
+  "version": "0.0.0",
+  "description": "An application server for hosting fastboot application.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fastboot-app-server": "^2.0.0"
+  }
+}
