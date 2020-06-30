@@ -1,0 +1,12 @@
+.git/
+.dockerignore
+Dockerfile
+docker-compose.yml
+nginx/
+
+ember-fastboot-app/.gitignore
+ember-fastboot-app/node_modules/
+ember-fastboot-app/dist/
+
+ember-fastboot-app-server/.gitignore
+ember-fastboot-app-server/node_modules/
